@@ -180,7 +180,7 @@ Champion decide se aprova ou pede gravaçêo manual de quem participou.
 
 ---
 
-# Exemplo preenchido — Time INEMA.CLUB
+# Exemplo preenchido — Time ARCKHÉ AI
 
 **Versêo:** 1.0 — uso interno.
 **Champion:** Marina Reis (head ops).

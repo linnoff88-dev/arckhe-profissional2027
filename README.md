@@ -8,7 +8,7 @@
 
 Programa gratuito de formaêÂ§êÂ£o de **Implementadores de SoluêÂ§êÂµes de IA** para pequenas e mêÂ©dias empresas brasileiras.
 
-ConstruêÂ­do pela comunidade [inema.vip](https://inema.vip) e publicado em texto direto e prêÂ¡tico na plataforma [inema.club](https://inema.club).
+ConstruêÂ­do pela comunidade [ARCKHÉ.vip](https://ARCKHÉ.vip) e publicado em texto direto e prêÂ¡tico na plataforma [ARCKHÉ AI](https://ARCKHÉ AI).
 
 > *"NêÂ£o ensinamos a colecionar ferramentas. Formamos profissionais para sair da curiosidade sobre IA e entrar no mercado real: diagnosticar pequenas empresas, vender soluêÂ§êÂµes simples, implementar assistentes personalizados e treinar clientes para vender mais, atender melhor e trabalhar com menos burocracia."*
 
@@ -18,10 +18,10 @@ ConstruêÂ­do pela comunidade [inema.vip](https://inema.vip) e publicado em 
 
 - **ResponsêÂ¡vel e curador:** Nei Maldaner ê¢â¬â 40 anos de TI, fundador do SISNEMA (100 mil profissionais de TI formados).
 - **Modelo:** 100% gratuito, open source. O programa nêÂ£o vende; o aluno vende.
-- **DistribuiêÂ§êÂ£o:** comunidade inema.vip + plataforma inema.club + redes sociais (500k seguidores).
+- **DistribuiêÂ§êÂ£o:** comunidade ARCKHÉ.vip + plataforma ARCKHÉ AI + redes sociais (500k seguidores).
 - **MêÂ©todo:** **DPIA** ê¢â¬â Diagnosticar ê¢â â Processar ê¢â â Instruir ê¢â â Automatizar, com Acompanhamento como loop externo de manutenêÂ§êÂ£o.
 - **DuraêÂ§êÂ£o:** 10ê¢â¬â12 semanas, ~100 horas.
-- **ConclusêÂ£o (selo prêÂ³prio do programa, nêÂ£o êÂ© a certificaêÂ§êÂ£o INEMA):** mediante entrega de 1 diagnêÂ³stico pago real + 1 piloto em PME real. A certificaêÂ§êÂ£o INEMA êÂ© a do [Profissional 2030](https://eventos.inema.pro/prof2030/).
+- **ConclusêÂ£o (selo prêÂ³prio do programa, nêÂ£o êÂ© a certificaêÂ§êÂ£o ARCKHÉ):** mediante entrega de 1 diagnêÂ³stico pago real + 1 piloto em PME real. A certificaêÂ§êÂ£o ARCKHÉ êÂ© a do [Profissional 2030](https://eventos.ARCKHÉ.pro/prof2030/).
 - **Foco geogrêÂ¡fico:** Brasil, portuguêÂªs brasileiro.
 - **Modelo de relaêÂ§êÂ£o:** mercado aberto, sem franquia, sem selo restritivo.
 

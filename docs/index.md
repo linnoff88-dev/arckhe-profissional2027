@@ -7,7 +7,7 @@ hide:
 
 **Programa gratuito de formaçêo de Implementadores de Soluções de IA para pequenas e médias empresas brasileiras.**
 
-Construído pela comunidade [inema.vip](https://inema.vip) e publicado em texto direto e prático em [inema.club](https://inema.club).
+Construído pela comunidade [ARCKHÉ.vip](https://ARCKHÉ.vip) e publicado em texto direto e prático em [ARCKHÉ AI](https://ARCKHÉ AI).
 
 ---
 
@@ -41,7 +41,7 @@ Esse é o método **DPIA + Acompanhamento**.
 | **Modelo** | 100% gratuito, open source, em português brasileiro |
 | **Estrutura** | Núcleo generalista + módulos verticais opcionais (distribuidoras, clínicas, contábeis) |
 | **Certificaçêo** | Após entregar 1 diagnóstico pago real + 1 piloto em PME real |
-| **Distribuiçêo** | inema.club + comunidade inema.vip |
+| **Distribuiçêo** | ARCKHÉ AI + comunidade ARCKHÉ.vip |
 | **Relaçêo com formados** | Mercado aberto. Sem franquia, sem selo restritivo |
 
 ---
@@ -80,8 +80,8 @@ Sete pesquisas de mercado + síntese transversal. A base de evidência por trás
 ## Quem está por trás
 
 **Curadoria:** Nei Maldaner — 40 anos de TI, fundador do SISNEMA (100 mil profissionais de TI formados ao longo de quatro décadas).
-**Comunidade:** [inema.vip](https://inema.vip) e marca pessoal com 500 mil seguidores em redes sociais.
-**Plataforma:** [inema.club](https://inema.club) — treinamento gratuito, texto direto, prático.
+**Comunidade:** [ARCKHÉ.vip](https://ARCKHÉ.vip) e marca pessoal com 500 mil seguidores em redes sociais.
+**Plataforma:** [ARCKHÉ AI](https://ARCKHÉ AI) — treinamento gratuito, texto direto, prático.
 
 ---
 
@@ -89,5 +89,5 @@ Sete pesquisas de mercado + síntese transversal. A base de evidência por trás
 
 Conteúdo livre para uso, adaptaçêo e redistribuiçêo por qualquer pessoa ou comunidade.
 
-[Ver no GitHub :material-github:](https://github.com/inematds/profissional2027){ .md-button .md-button--primary }
+[Ver no GitHub :material-github:](https://github.com/linnoff88-dev/profissional2027){ .md-button .md-button--primary }
 [Começar pelo Manifesto :material-book-open-page-variant:](conteudo/nivel-1-manifesto/01-manifesto.md){ .md-button }

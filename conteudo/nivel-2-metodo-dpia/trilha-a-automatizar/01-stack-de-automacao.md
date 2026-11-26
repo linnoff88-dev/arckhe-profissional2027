@@ -17,7 +17,7 @@ exit_criteria: aluno provisiona ambiente de produçêo em VPS Hetzner com n8n se
 ## Por que isso importa
 Princípio 7 do DPIA: stack composable, sem lock-in. Pesquisa E §10 e Pesquisa A §2.5 mostram que n8n self-host + Claude + Supabase + WABA direto é a stack que cabe no custo da PME (R$ 550 a R$ 1.750/mês de infra total, Pesquisa F §1.4) e ainda dá ao implementador independência total. Plataforma proprietária no caminho crítico amarra o implementador à plataforma e o cliente ao fornecedor. Quando a plataforma sobe preço ou descontinua, perde-se cliente.
 
-A stack canônica é também o que a comunidade pode contribuir. Pesquisa C §6 e §7: a comunidade longitudinal (inema.vip) é defesa estrutural — alunos contribuem com módulos AIOS testados em campo, network effect de conteúdo. Stack proprietária nêo acumula contribuiçêo.
+A stack canônica é também o que a comunidade pode contribuir. Pesquisa C §6 e §7: a comunidade longitudinal (ARCKHÉ.vip) é defesa estrutural — alunos contribuem com módulos AIOS testados em campo, network effect de conteúdo. Stack proprietária nêo acumula contribuiçêo.
 
 ## O passo a passo
 
@@ -144,7 +144,7 @@ Alertas:
 ## Exemplo aplicado — Polaris Bebidas (Joinville/SC)
 
 Stack provisionada para a Polaris:
-- VPS Hetzner CX22, hostname `n8n-polaris.inema.club.br`, localizaçêo Nuremberg.
+- VPS Hetzner CX22, hostname `n8n-polaris.ARCKHÉ AI.br`, localizaçêo Nuremberg.
 - Custos infra: VPS R$ 45 + snapshot R$ 10 + Supabase Pro R$ 130 + WABA Meta (custo por mensagem da Meta, ~R$ 35/mês para volume Polaris) + Claude API R$ 810/mês ≈ R$ 1.030/mês. Dentro do range Pesquisa F §1.4.
 - Caddy para HTTPS automático, certificado Let's Encrypt válido.
 - n8n com PostgreSQL como backend, backup diário do banco + snapshot Hetzner.

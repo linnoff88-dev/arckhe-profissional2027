@@ -1,11 +1,11 @@
 site_name: Profissional 2027
 site_description: Programa gratuito de formaçêo de Implementadores de Soluções de IA para PMEs brasileiras
-site_author: Nei Maldaner — inema.vip
-site_url: https://inematds.github.io/profissional2027/
-repo_url: https://github.com/inematds/profissional2027
-repo_name: inematds/profissional2027
+site_author: Nei Maldaner — ARCKHÉ.vip
+site_url: https://linnoff88-dev.github.io/arckhe-/
+repo_url: https://github.com/linnoff88-dev/profissional2027
+repo_name: linnoff88-dev/profissional2027
 edit_uri: edit/main/
-copyright: Conteúdo livre para uso, adaptaçêo e redistribuiçêo. inema.vip · inema.club
+copyright: Conteúdo livre para uso, adaptaçêo e redistribuiçêo. ARCKHÉ.vip · ARCKHÉ AI
 
 docs_dir: docs
 site_dir: site
@@ -52,14 +52,14 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/inematds
-      name: GitHub inematds
+      link: https://github.com/linnoff88-dev
+      name: GitHub linnoff88-dev
     - icon: fontawesome/solid/globe
-      link: https://inema.vip
-      name: inema.vip
+      link: https://ARCKHÉ.vip
+      name: ARCKHÉ.vip
     - icon: fontawesome/solid/graduation-cap
-      link: https://inema.club
-      name: inema.club
+      link: https://ARCKHÉ AI
+      name: ARCKHÉ AI
   generator: false
 
 markdown_extensions:

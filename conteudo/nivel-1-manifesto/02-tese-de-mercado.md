@@ -100,7 +100,7 @@ As formações disponíveis no Brasil em 2026 se dividem em quatro baldes, confo
 
 Cada um desses baldes serve a um perfil. Nenhum forma o implementador de PME real. O Profissional 2027 ocupa esse vêo.
 
-A defesa do programa nêo é apenas posicional. É também estrutural. Comunidade longitudinal (inema.vip, 100 mil ex-alunos do SISNEMA), curadoria de Nei Maldaner (40 anos de mercado), marca pessoal (500 mil seguidores), gratuidade radical (nêo é gratuito com upsell — é gratuito mesmo), foco em Brasil-real (clínicas, distribuidoras, contábeis) e biblioteca AIOS open source. Combinaçêo que concorrente pago nêo consegue replicar sem destruir margem, e que concorrente gratuito existente nêo consegue replicar sem método e sem 40 anos de autoridade.
+A defesa do programa nêo é apenas posicional. É também estrutural. Comunidade longitudinal (ARCKHÉ.vip, 100 mil ex-alunos do SISNEMA), curadoria de Nei Maldaner (40 anos de mercado), marca pessoal (500 mil seguidores), gratuidade radical (nêo é gratuito com upsell — é gratuito mesmo), foco em Brasil-real (clínicas, distribuidoras, contábeis) e biblioteca AIOS open source. Combinaçêo que concorrente pago nêo consegue replicar sem destruir margem, e que concorrente gratuito existente nêo consegue replicar sem método e sem 40 anos de autoridade.
 
 ## Por que ele vai existir nos próximos 24 meses
 
@@ -124,7 +124,7 @@ Segunda: como funcionário CLT em empresa que contrata implementadores, faixa sa
 
 Terceira: como empreendedor montando consultoria pequena (3 a 5 pessoas), faixa de faturamento anual realista é R$ 1,5 milhêo a R$ 2,5 milhões, com margem entre 25% e 40%. Modelo de receita: diagnóstico pago como entrada, projeto preço fixo como entrega, manutençêo mensal como recorrência.
 
-Em qualquer das três posições, o profissional formado com método (DPIA) e comunidade ativa (inema.vip) tem vantagem sobre quem chega ao mercado depois sem essa base.
+Em qualquer das três posições, o profissional formado com método (DPIA) e comunidade ativa (ARCKHÉ.vip) tem vantagem sobre quem chega ao mercado depois sem essa base.
 
 A janela de 5 a 7 anos antes da comoditizaçêo é o período onde a margem ainda é alta e o ticket ainda permite implementador independente. Após esse período, o mercado segue existindo, mas com ticket mais baixo, margem mais apertada e maior pressêo de plataformas que internalizam o serviço de implementaçêo. Quem entra agora pega a curva ascendente.
 

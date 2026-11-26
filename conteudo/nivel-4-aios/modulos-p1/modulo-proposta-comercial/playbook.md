@@ -171,7 +171,7 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item nêo encontrado, agen
 
 ---
 
-# Exemplo preenchido — Time comercial INEMA.CLUB (uso próprio)
+# Exemplo preenchido — Time comercial ARCKHÉ AI (uso próprio)
 
 **Versêo:** 1.0 — uso interno do programa Profissional 2027.
 **Champion:** Nei Maldaner (curador).

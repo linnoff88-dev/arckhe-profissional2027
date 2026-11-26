@@ -29,7 +29,7 @@ A rotina concreta varia conforme o estágio do profissional (independente, em co
 
 **Tarde (13h a 17h)** — Bloco de cliente novo e expansêo. Duas tardes por semana sêo reservadas para diagnóstico em cliente novo: visita à empresa, entrevistas com dono e operadores, walk-the-floor, mapeamento de processo, coleta de baseline. Outras duas tardes sêo para implementaçêo ativa em cliente em fase de projeto: configurar WABA, integrar com Bling ou Omie, treinar champion interno, gravar micro-vídeos de uso. Uma tarde por semana é reservada para visita presencial de manutençêo em cliente do tier alto.
 
-**Final de tarde (17h a 19h)** — Bloco comercial e estudo. Pipeline: 1 a 2 reuniões de discovery com cliente potencial captado por indicaçêo ou pelo LinkedIn. Escreve proposta de diagnóstico. Atualiza CRM próprio. Lê o que mudou no Claude, no n8n, no Bling. Participa de discussões na comunidade inema.vip — tira dúvida, ajuda colega, contribui módulo novo para AIOS.
+**Final de tarde (17h a 19h)** — Bloco comercial e estudo. Pipeline: 1 a 2 reuniões de discovery com cliente potencial captado por indicaçêo ou pelo LinkedIn. Escreve proposta de diagnóstico. Atualiza CRM próprio. Lê o que mudou no Claude, no n8n, no Bling. Participa de discussões na comunidade ARCKHÉ.vip — tira dúvida, ajuda colega, contribui módulo novo para AIOS.
 
 **Semana típica em volume** — 5 a 8 horas em atendimento e ajustes técnicos dos clientes em manutençêo. 12 a 16 horas em implementaçêo ativa de cliente em projeto. 4 a 8 horas em comercial (prospecçêo, discovery, proposta). 4 a 6 horas em visita presencial. 3 a 5 horas em estudo, comunidade e atualizaçêo. Total: 28 a 43 horas semanais. Permite vida pessoal com folga.
 

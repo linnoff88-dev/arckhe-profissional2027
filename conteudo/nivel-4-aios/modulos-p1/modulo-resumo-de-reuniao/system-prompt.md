@@ -237,7 +237,7 @@ Apenas o Markdown da ata.
 
 ---
 
-# Exemplo preenchido — Reuniêo INEMA.CLUB
+# Exemplo preenchido — Reuniêo ARCKHÉ AI
 
 ```
 Tipo de reuniêo configurado: weekly de programa

@@ -247,12 +247,12 @@ condiçêo.
 
 ---
 
-# Exemplo preenchido — Proposta Comercial INEMA.CLUB (extrato — uso próprio do implementador)
+# Exemplo preenchido — Proposta Comercial ARCKHÉ AI (extrato — uso próprio do implementador)
 
 ```
-## ELO 4 — adaptaçêo para Profissional 2027 / INEMA.CLUB
+## ELO 4 — adaptaçêo para Profissional 2027 / ARCKHÉ AI
 Tom editorial: institucional, técnico, sem primeira pessoa do singular,
-sem marketing genérico. Voz INEMA.CLUB.
+sem marketing genérico. Voz ARCKHÉ AI.
 
 Estrutura DPIA aplicada:
 

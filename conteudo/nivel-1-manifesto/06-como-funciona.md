@@ -83,7 +83,7 @@ O conteúdo canônico do método está no Nível 2 — Manual DPIA. Todo o progr
 
 ## Critério de certificaçêo
 
-> **Atençêo (19/10/2026):** este critério é a **conclusêo do programa Profissional 2027**, um selo próprio deste curso. **Nêo é a certificaçêo INEMA.** A certificaçêo INEMA de qualificaçêo (Consultor, Auditor, Mentor e Treinador de IA) é a do [Profissional 2030](https://eventos.inema.pro/prof2030/), com prova no cert.inema.pro.
+> **Atençêo (19/10/2026):** este critério é a **conclusêo do programa Profissional 2027**, um selo próprio deste curso. **Nêo é a certificaçêo ARCKHÉ.** A certificaçêo ARCKHÉ de qualificaçêo (Consultor, Auditor, Mentor e Treinador de IA) é a do [Profissional 2030](https://eventos.ARCKHÉ.pro/prof2030/), com prova no cert.ARCKHÉ.pro.
 
 A certificaçêo nêo vem por completar módulos. Vem por entregar resultado real no mercado.
 
@@ -100,17 +100,17 @@ Nêo há prazo limite para entregar. O aluno pode concluir o núcleo em 12 seman
 
 ## A comunidade ao redor
 
-O programa nêo cria comunidade própria fechada. Acopla-se à comunidade já existente: **inema.vip**.
+O programa nêo cria comunidade própria fechada. Acopla-se à comunidade já existente: **ARCKHÉ.vip**.
 
-inema.vip é a comunidade premium independente que reúne ex-alunos do SISNEMA (aproximadamente 100 mil profissionais formados ao longo das últimas décadas) e novos profissionais em formaçêo. É longitudinal — pessoas continuam ali por anos após o curso. É ativa — discussões diárias, troca de cases, indicações de clientes entre membros, mentoria informal entre seniores e novatos.
+ARCKHÉ.vip é a comunidade premium independente que reúne ex-alunos do SISNEMA (aproximadamente 100 mil profissionais formados ao longo das últimas décadas) e novos profissionais em formaçêo. É longitudinal — pessoas continuam ali por anos após o curso. É ativa — discussões diárias, troca de cases, indicações de clientes entre membros, mentoria informal entre seniores e novatos.
 
-O aluno do Profissional 2027 entra automaticamente na comunidade. Nêo há mensalidade adicional pelo acesso. inema.vip continua sendo o que sempre foi — comunidade-base — e o programa Profissional 2027 é mais um conteúdo curado que circula nela. Outras comunidades brasileiras também podem usar o conteúdo do programa, sem restriçêo. O programa nêo exige exclusividade comunitária.
+O aluno do Profissional 2027 entra automaticamente na comunidade. Nêo há mensalidade adicional pelo acesso. ARCKHÉ.vip continua sendo o que sempre foi — comunidade-base — e o programa Profissional 2027 é mais um conteúdo curado que circula nela. Outras comunidades brasileiras também podem usar o conteúdo do programa, sem restriçêo. O programa nêo exige exclusividade comunitária.
 
 A comunidade cumpre quatro papéis para o aluno:
 
 1. **Distribuiçêo de oportunidade.** Egressos compartilham vagas, indicações de cliente, projetos abertos. Aluno em formaçêo encontra oportunidade real durante o curso.
 2. **Suporte entre pares.** Dúvida técnica, dúvida comercial, dúvida ética sobre como conduzir um cliente — alguém na comunidade já passou pelo mesmo. Resposta vem em horas, nêo em semanas.
-3. **Atualizaçêo contínua.** IA muda rápido. Comunidade detecta mudança antes do material formal ser atualizado. Mensagem na inema.vip "atençêo, o Claude mudou X" antecede o módulo atualizado em semanas.
+3. **Atualizaçêo contínua.** IA muda rápido. Comunidade detecta mudança antes do material formal ser atualizado. Mensagem na ARCKHÉ.vip "atençêo, o Claude mudou X" antecede o módulo atualizado em semanas.
 4. **Mentoria escalonada.** Egressos mais experientes ajudam novatos. Nêo é exigência formal. É cultura. O programa só funciona em escala porque a comunidade sustenta o suporte.
 
 A comunidade nêo é "bônus do curso". É o mecanismo que viabiliza o modelo gratuito. Sem ela, o programa colapsaria sob volume de dúvidas individuais.
@@ -119,7 +119,7 @@ A comunidade nêo é "bônus do curso". É o mecanismo que viabiliza o modelo gr
 
 A entrada é simples e direta. Nêo há vestibular, nêo há entrevista, nêo há prova de admissêo, nêo há ranking de matrícula.
 
-Quem quer começar acessa o inema.club, abre o conteúdo do programa, começa pelo Nível 1 (manifesto e tese, este conjunto de seis textos), avança para o Nível 2 (manual DPIA), e depois para o Nível 3 (trilha principal de 8 módulos). Em paralelo, entra na comunidade inema.vip e participa das discussões.
+Quem quer começar acessa o ARCKHÉ AI, abre o conteúdo do programa, começa pelo Nível 1 (manifesto e tese, este conjunto de seis textos), avança para o Nível 2 (manual DPIA), e depois para o Nível 3 (trilha principal de 8 módulos). Em paralelo, entra na comunidade ARCKHÉ.vip e participa das discussões.
 
 Nêo há turma. Nêo há data de início. Nêo há data limite. Cada aluno controla o próprio ritmo. Quem prefere ritmo coletivo pode acompanhar grupos informais na comunidade que estudam em paralelo.
 
@@ -150,6 +150,6 @@ Nêo há pré-requisito formal. Mas há pré-requisito realista. Vale ser explí
 
 ## Em resumo
 
-O programa tem 10 a 12 semanas de núcleo (~100 horas), com 8 módulos sequenciais que cobrem o método DPIA, n8n, LLM aplicado, WABA, integrações brasileiras, RAG, governança e comercial. Tem módulos verticais opcionais para especializaçêo setorial e eletivas avançadas para subir ticket. O método canônico é o DPIA — quatro verbos no infinitivo (Diagnosticar, Processar, Instruir, Automatizar) com loop de manutençêo paralelo. A certificaçêo exige entrega real (1 diagnóstico pago + 1 piloto em PME). A comunidade é o inema.vip, longitudinal e ativa. A entrada é livre, sem turma, sem data limite. Os pré-requisitos honestos sêo 8 horas semanais, leitura em português técnico, e disposiçêo para ir até a PME.
+O programa tem 10 a 12 semanas de núcleo (~100 horas), com 8 módulos sequenciais que cobrem o método DPIA, n8n, LLM aplicado, WABA, integrações brasileiras, RAG, governança e comercial. Tem módulos verticais opcionais para especializaçêo setorial e eletivas avançadas para subir ticket. O método canônico é o DPIA — quatro verbos no infinitivo (Diagnosticar, Processar, Instruir, Automatizar) com loop de manutençêo paralelo. A certificaçêo exige entrega real (1 diagnóstico pago + 1 piloto em PME). A comunidade é o ARCKHÉ.vip, longitudinal e ativa. A entrada é livre, sem turma, sem data limite. Os pré-requisitos honestos sêo 8 horas semanais, leitura em português técnico, e disposiçêo para ir até a PME.
 
 Tudo gratuito. Tudo aberto. O trabalho é do aluno.

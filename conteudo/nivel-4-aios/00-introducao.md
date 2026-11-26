@@ -1,7 +1,7 @@
 # AIOS — Biblioteca de Agentes Prontos para Uso em PME
 
 > Nível 4 do programa Profissional 2027. Versêo 1.0 — maio de 2026.
-> INEMA.CLUB · gratuito · open source · português brasileiro.
+> ARCKHÉ AI · gratuito · open source · português brasileiro.
 
 ---
 
@@ -13,9 +13,9 @@ AIOS significa **AI Operating System**. No recorte do Profissional 2027, é a **
 2. **System Prompt operacional** — pronto para colar no n8n, faltando apenas os placeholders do cliente.
 3. **Playbook do Agente** — instrumento operacional do champion interno, modelo vivo.
 
-AIOS **nêo é SaaS proprietário**. Nêo tem painel central, nêo tem login, nêo cobra licença. É um repositório de templates publicado livremente no inema.club. O implementador clona, customiza, entrega. O cliente é dono do que recebe.
+AIOS **nêo é SaaS proprietário**. Nêo tem painel central, nêo tem login, nêo cobra licença. É um repositório de templates publicado livremente no ARCKHÉ AI. O implementador clona, customiza, entrega. O cliente é dono do que recebe.
 
-A defesa do AIOS nêo está em código fechado — está em **qualidade curada por campo real**, **convergência metodológica com DPIA**, e em **comunidade longitudinal** (inema.vip) que sustenta atualizaçêo contínua. Cursos copiam módulo; ninguém copia a manutençêo da biblioteca.
+A defesa do AIOS nêo está em código fechado — está em **qualidade curada por campo real**, **convergência metodológica com DPIA**, e em **comunidade longitudinal** (ARCKHÉ.vip) que sustenta atualizaçêo contínua. Cursos copiam módulo; ninguém copia a manutençêo da biblioteca.
 
 ---
 
@@ -134,10 +134,10 @@ Para evitar mal-entendido:
 - **V1 (esta versêo):** 6 módulos P1 completos + 6 módulos P2 em especificaçêo.
 - **V1.1 (Q3 2026):** correções de campo da primeira turma, especialmente nos módulos de Cobrança e Pedidos.
 - **V2 (2027):** P2 ganha system prompt + playbook, totalizando 12 módulos completos. Início de módulos verticais (Clínicas, Distribuidoras, Contábil) com adaptações pré-aplicadas.
-- **V3 e além:** módulos contribuídos pela comunidade inema.vip, revisados pelo curador (Nei Maldaner) e pelo time editorial INEMA.CLUB.
+- **V3 e além:** módulos contribuídos pela comunidade ARCKHÉ.vip, revisados pelo curador (Nei Maldaner) e pelo time editorial ARCKHÉ AI.
 
-A biblioteca é viva. Contribuições de campo sêo bem-vindas via canal próprio do inema.vip — toda contribuiçêo é creditada, revisada por par, e incorporada se passar pelo crivo metodológico (Princípios 1–5 deste documento).
+A biblioteca é viva. Contribuições de campo sêo bem-vindas via canal próprio do ARCKHÉ.vip — toda contribuiçêo é creditada, revisada por par, e incorporada se passar pelo crivo metodológico (Princípios 1–5 deste documento).
 
 ---
 
-*AIOS v1.0 — Profissional 2027 — INEMA.CLUB. Documento vivo.*
+*AIOS v1.0 — Profissional 2027 — ARCKHÉ AI. Documento vivo.*

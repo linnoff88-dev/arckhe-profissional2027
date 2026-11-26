@@ -109,7 +109,7 @@ Versêo: X.Y — DD/mês/AAAA
 - **Y** muda em revisêo de conteúdo (regras, exemplos, métricas).
 - Data sempre presente.
 
-Repositório oficial AIOS no inema.club mantém histórico Git. Mudanças no `main` passam por revisêo editorial.
+Repositório oficial AIOS no ARCKHÉ AI mantém histórico Git. Mudanças no `main` passam por revisêo editorial.
 
 ---
 
@@ -180,7 +180,7 @@ Manuais completos por vertical entram em **Nível 5 da biblioteca** (nêo nesta 
 
 Toda biblioteca AIOS é publicada com:
 
-> Licença: aberta, gratuita, livre para adaptaçêo com atribuiçêo a **Profissional 2027 / INEMA.CLUB**.
+> Licença: aberta, gratuita, livre para adaptaçêo com atribuiçêo a **Profissional 2027 / ARCKHÉ AI**.
 
 Implementador pode adaptar, traduzir, vender consultoria usando os módulos. Nêo pode revender o material em si como produto fechado próprio.
 
@@ -190,7 +190,7 @@ Implementador pode adaptar, traduzir, vender consultoria usando os módulos. Nê
 
 V1 é editorial — fechada, curada por Nei. A partir de V2:
 
-- Contribuições via canal próprio do inema.vip.
+- Contribuições via canal próprio do ARCKHÉ.vip.
 - Toda contribuiçêo é creditada.
 - Revisêo editorial valida: estrutura, conformidade com DPIA, evidência de campo (≥ 1 cliente real rodando).
 - Aprovaçêo publica no repositório oficial.

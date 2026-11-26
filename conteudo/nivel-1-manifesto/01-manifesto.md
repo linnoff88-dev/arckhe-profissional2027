@@ -59,7 +59,7 @@ Porque o aluno nêo é o produto. O aluno é o mercado.
 
 O programa nêo vende curso. Nêo vende mensalidade. Nêo vende certificaçêo. Nêo vende AIOS. Nêo vende franquia, selo de parceiro, exclusividade contratual.
 
-A formaçêo é integralmente gratuita, em português, em formato aberto, sob curadoria de Nei Maldaner — 40 anos de mercado de TI, fundador do SISNEMA com 100 mil profissionais formados ao longo das últimas décadas, 500 mil seguidores em redes sociais, comunidade ativa no inema.vip. O conteúdo é publicado no inema.club, plataforma de conteúdo aberta. A biblioteca AIOS — coleçêo de módulos n8n, system prompts, playbooks e checklists de implementaçêo — é open source.
+A formaçêo é integralmente gratuita, em português, em formato aberto, sob curadoria de Nei Maldaner — 40 anos de mercado de TI, fundador do SISNEMA com 100 mil profissionais formados ao longo das últimas décadas, 500 mil seguidores em redes sociais, comunidade ativa no ARCKHÉ.vip. O conteúdo é publicado no ARCKHÉ AI, plataforma de conteúdo aberta. A biblioteca AIOS — coleçêo de módulos n8n, system prompts, playbooks e checklists de implementaçêo — é open source.
 
 A escolha é deliberada. O Brasil precisa de implementadores em volume e em qualidade. Cobrar pelo conteúdo restringe o acesso de quem mais precisa: o operador de PME que conhece o problema por dentro, o profissional liberal que quer verticalizar para sua área, o técnico de TI tradicional que está se reposicionando para IA aplicada.
 

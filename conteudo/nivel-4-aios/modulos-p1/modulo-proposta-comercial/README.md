@@ -191,7 +191,7 @@ A fase P costuma ser a mais demorada: indexar 50–100 propostas antigas no RAG 
 - Template baseado em DPIA: fases D/P/I/A + Acompanhamento.
 - Tabela: diagnóstico (R$ 3-8k) + projeto (R$ 20-80k) + manutençêo (R$ 800-7k/mês).
 - Few-shot: propostas Polaris, MoveBem, Verbo (cases anonimizados).
-- Saída: PDF + slides (template editorial INEMA.CLUB).
+- Saída: PDF + slides (template editorial ARCKHÉ AI).
 
 ### Agência de marketing digital
 - Template por serviço: SEO, Tráfego pago, Conteúdo, Social, Branding.
