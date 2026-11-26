@@ -2,12 +2,12 @@
 nivel: 3
 bloco: C
 modulo: 2
-titulo: Identificar e formar o champion interno — perfil, formação, papel ongoing
+titulo: Identificar e formar o champion interno — perfil, formaçêo, papel ongoing
 tempo_leitura: 16
 exit_criteria: Aluno consegue identificar o champion na fase D, formá-lo em train-the-trainer na fase A e mantê-lo ativo no Acompanhamento
 ---
 
-# Identificar e formar o champion interno — perfil, formação, papel ongoing
+# Identificar e formar o champion interno — perfil, formaçêo, papel ongoing
 
 ## O que você vai aprender
 
@@ -19,11 +19,11 @@ exit_criteria: Aluno consegue identificar o champion na fase D, formá-lo em tra
 
 ## Por que isso importa
 
-Pesquisa G §3.3 e §11.2 estabelecem que organizações com champions internos têm taxa de sucesso de implementação **3x maior** do que aquelas que dependem só de mandato top-down (Worklytics 2026). DPIA canônico (Princípio 4) torna a nomeação do champion exit-gate obrigatório da fase D.
+Pesquisa G §3.3 e §11.2 estabelecem que organizações com champions internos têm taxa de sucesso de implementaçêo **3x maior** do que aquelas que dependem só de mandato top-down (Worklytics 2026). DPIA canônico (Princípio 4) torna a nomeaçêo do champion exit-gate obrigatório da fase D.
 
-Sem champion, o aluno vira suporte permanente. Cada dúvida pequena vira mensagem no WhatsApp. O modelo não escala — o aluno trava em 3–4 clientes simultâneos e não consegue mais crescer.
+Sem champion, o aluno vira suporte permanente. Cada dúvida pequena vira mensagem no WhatsApp. O modelo nêo escala — o aluno trava em 3–4 clientes simultâneos e nêo consegue mais crescer.
 
-Com champion, o aluno opera de verdade como consultor de manutenção mensal: visita 1–2 vezes por mês, recebe os logs do champion, ajusta o playbook, e o champion faz o resto.
+Com champion, o aluno opera de verdade como consultor de manutençêo mensal: visita 1–2 vezes por mês, recebe os logs do champion, ajusta o playbook, e o champion faz o resto.
 
 ## Conteúdo principal
 
@@ -31,123 +31,123 @@ Com champion, o aluno opera de verdade como consultor de manutenção mensal: vi
 
 Champion interno é a pessoa do quadro do cliente que:
 
-1. Domina a operação do agente em profundidade (mais que qualquer outro funcionário).
+1. Domina a operaçêo do agente em profundidade (mais que qualquer outro funcionário).
 2. Treina colegas no uso diário.
 3. Mantém o log de erros e feedbacks operacionais.
 4. Escala incidentes para o aluno (consultor) quando necessário.
-5. Atualiza a documentação interna (cheatsheets, observações no playbook).
+5. Atualiza a documentaçêo interna (cheatsheets, observações no playbook).
 
-Não é "usuário-chave" no sentido de SaaS corporativo. É um **multiplicador interno formado** que reduz dependência do aluno e mantém a operação viva.
+Nêo é "usuário-chave" no sentido de SaaS corporativo. É um **multiplicador interno formado** que reduz dependência do aluno e mantém a operaçêo viva.
 
-### Por que o aluno não pode pular essa figura
+### Por que o aluno nêo pode pular essa figura
 
 Três razões:
 
-1. **Escalabilidade do modelo do aluno.** Sem champion, cada cliente exige 8–10h/mês de suporte direto do aluno. Com 5 clientes, são 50h/mês só em suporte — sobra pouco para venda nova e nada para vida.
+1. **Escalabilidade do modelo do aluno.** Sem champion, cada cliente exige 8–10h/mês de suporte direto do aluno. Com 5 clientes, sêo 50h/mês só em suporte — sobra pouco para venda nova e nada para vida.
 
-2. **Sustentação quando o aluno não está presente.** Pesquisa G §7.3 (teste do novo funcionário): se a empresa contrata alguém amanhã, ele consegue operar usando só a documentação? Sem champion mantendo a documentação, a resposta vira não em 60 dias.
+2. **Sustentaçêo quando o aluno nêo está presente.** Pesquisa G §7.3 (teste do novo funcionário): se a empresa contrata alguém amanhê, ele consegue operar usando só a documentaçêo? Sem champion mantendo a documentaçêo, a resposta vira nêo em 60 dias.
 
 3. **Sinal de seriedade do cliente.** Cliente que recusa nomear champion ("vou ver quem fica responsável depois") sinaliza desengajamento. É bandeira vermelha que o aluno precisa endereçar antes de avançar.
 
 ### Identificar o champion já na fase D
 
-O champion é **nomeado** no exit-gate da fase D do DPIA. Não é decisão tomada depois — é critério para considerar o diagnóstico concluído.
+O champion é **nomeado** no exit-gate da fase D do DPIA. Nêo é decisêo tomada depois — é critério para considerar o diagnóstico concluído.
 
 Critérios objetivos para escolha:
 
-1. **Curiosidade demonstrada.** Pergunta sobre como funciona, não só sobre se vai dar certo.
-2. **Domínio do processo atual.** Se virar champion, precisa conhecer o processo na pele — não pode ser alguém de fora.
-3. **Disposição declarada.** Não pode ser indicado por imposição. Precisa aceitar verbalmente, na presença do dono.
-4. **Estabilidade no emprego.** Funcionário que vai sair em 3 meses não é champion. Idealmente, alguém com 2+ anos de casa.
-5. **Boa relação com colegas.** Champion impopular não consegue treinar ninguém.
+1. **Curiosidade demonstrada.** Pergunta sobre como funciona, nêo só sobre se vai dar certo.
+2. **Domínio do processo atual.** Se virar champion, precisa conhecer o processo na pele — nêo pode ser alguém de fora.
+3. **Disposiçêo declarada.** Nêo pode ser indicado por imposiçêo. Precisa aceitar verbalmente, na presença do dono.
+4. **Estabilidade no emprego.** Funcionário que vai sair em 3 meses nêo é champion. Idealmente, alguém com 2+ anos de casa.
+5. **Boa relaçêo com colegas.** Champion impopular nêo consegue treinar ninguém.
 6. **Tempo disponível.** No mínimo 3h/semana nas primeiras 8 semanas, 1–2h/semana depois.
 
 ### Perfis típicos por nicho
 
-**Distribuidora.** Geralmente é a atendente sênior do WhatsApp (não a júnior). Ou o gerente comercial, se o atendimento é a operação central.
+**Distribuidora.** Geralmente é a atendente sênior do WhatsApp (nêo a júnior). Ou o gerente comercial, se o atendimento é a operaçêo central.
 
-**Clínica.** Recepcionista sênior, ou coordenadora administrativa. Não o médico/profissional técnico (não tem tempo).
+**Clínica.** Recepcionista sênior, ou coordenadora administrativa. Nêo o médico/profissional técnico (nêo tem tempo).
 
-**Contábil.** Assistente contábil sênior, ou pessoa de comunicação com cliente (alguém que faz triagem hoje).
+**Contábil.** Assistente contábil sênior, ou pessoa de comunicaçêo com cliente (alguém que faz triagem hoje).
 
 **E-commerce.** Pessoa de SAC sênior, ou supervisora de atendimento.
 
-Padrão: nem o mais júnior (insegurança), nem o sócio/dono (sem tempo). Pessoa de nível operacional sênior com 2+ anos na empresa.
+Padrêo: nem o mais júnior (insegurança), nem o sócio/dono (sem tempo). Pessoa de nível operacional sênior com 2+ anos na empresa.
 
 ### Quando o cliente é pequeno demais para ter "perfil champion"
 
-PME de 3–6 funcionários pode não ter um "atendente sênior". Nesse caso, o champion **pode ser o próprio dono**, com ajustes:
+PME de 3–6 funcionários pode nêo ter um "atendente sênior". Nesse caso, o champion **pode ser o próprio dono**, com ajustes:
 
-- Tempo de dedicação aceito: 5h/semana iniciais, 2h/semana depois.
-- O train-the-trainer é mais curto (1 sessão de 3h em vez de 3 de 2h).
-- O dono assume os dois papéis: sponsor e champion. Funciona em micro-PME, mas exige confirmação explícita de tempo.
+- Tempo de dedicaçêo aceito: 5h/semana iniciais, 2h/semana depois.
+- O train-the-trainer é mais curto (1 sessêo de 3h em vez de 3 de 2h).
+- O dono assume os dois papéis: sponsor e champion. Funciona em micro-PME, mas exige confirmaçêo explícita de tempo.
 
 ### Train-the-trainer — 3 sessões na fase A
 
-**Sessão 1 — Semana 0 do go-live (3h)**
+**Sessêo 1 — Semana 0 do go-live (3h)**
 
 Objetivos:
 
-- Champion conhece o agente em profundidade técnica operacional (não técnica de stack).
-- Champion entende cada nível da matriz HITL e o motivo de cada classificação.
+- Champion conhece o agente em profundidade técnica operacional (nêo técnica de stack).
+- Champion entende cada nível da matriz HITL e o motivo de cada classificaçêo.
 - Champion sabe operar o playbook como documento vivo.
 
 Estrutura:
 
 - 45min: walkthrough do agente, todos os módulos, todos os fluxos. Champion experimenta.
 - 60min: matriz HITL revisada. Champion entende quando o agente decide sozinho, quando escala, e o que ele (champion) faz nesses casos.
-- 45min: playbook detalhado. Champion lê seção por seção e marca dúvidas.
-- 30min: como atualizar o playbook — onde fica, formato, ciclo (atualizado a cada manutenção, mas pode ser anotado por ele entre visitas).
+- 45min: playbook detalhado. Champion lê seçêo por seçêo e marca dúvidas.
+- 30min: como atualizar o playbook — onde fica, formato, ciclo (atualizado a cada manutençêo, mas pode ser anotado por ele entre visitas).
 
-**Sessão 2 — Semana 1 do go-live (2h)**
+**Sessêo 2 — Semana 1 do go-live (2h)**
 
 Objetivos:
 
 - Champion observa o aluno fazendo job shadowing com a equipe (módulo 03).
-- Champion começa a praticar a posição de "primeiro tirador de dúvida" dos colegas.
+- Champion começa a praticar a posiçêo de "primeiro tirador de dúvida" dos colegas.
 - Champion aprende a identificar e categorizar erros.
 
 Estrutura:
 
 - 60min: ao lado do aluno, observando a equipe operar.
 - 30min: champion tira dúvidas dos colegas com aluno presente, aluno corrige se necessário.
-- 30min: revisão de log de erros, categorização (erro de prompt, erro de contexto, erro de exceção, erro humano).
+- 30min: revisêo de log de erros, categorizaçêo (erro de prompt, erro de contexto, erro de exceçêo, erro humano).
 
-**Sessão 3 — Semana 2 do go-live (2h)**
+**Sessêo 3 — Semana 2 do go-live (2h)**
 
 Objetivos:
 
 - Champion opera como ponto focal sem aluno presente (aluno observa).
 - Champion grava 1 micro-vídeo com aluno orientando.
-- Champion aprende protocolo de escalação ao aluno.
+- Champion aprende protocolo de escalaçêo ao aluno.
 
 Estrutura:
 
 - 45min: aluno observa o champion respondendo aos colegas, intervém só em emergência.
-- 45min: gravação de 1 micro-vídeo. Aluno orienta, champion executa.
-- 30min: protocolo de escalação — qual canal, qual prazo, que tipo de problema escala.
+- 45min: gravaçêo de 1 micro-vídeo. Aluno orienta, champion executa.
+- 30min: protocolo de escalaçêo — qual canal, qual prazo, que tipo de problema escala.
 
 ### Papel do champion no Acompanhamento (ongoing)
 
-Após as 3 sessões iniciais, o champion sustenta a operação cotidiana. Atribuições mensais:
+Após as 3 sessões iniciais, o champion sustenta a operaçêo cotidiana. Atribuições mensais:
 
 - **Manter log de erros e feedbacks** (formato simples, formulário ou planilha). Envia ao aluno na semana antes da visita mensal.
 - **Treinar novos funcionários** que entram (até 1 por trimestre, sem custo extra; acima disso, cobra-se à parte).
-- **Atualizar cheatsheets** quando aparece situação nova recorrente.
+- **Atualizar cheatsheets** quando aparece situaçêo nova recorrente.
 - **Gravar 1 micro-vídeo novo por mês** com tema decidido em conjunto com o aluno (módulo 04).
-- **Coordenar reunião semanal de 15 min com a equipe** para revisar log de erros (Pesquisa G §6.3).
+- **Coordenar reuniêo semanal de 15 min com a equipe** para revisar log de erros (Pesquisa G §6.3).
 
-Em cada visita mensal do aluno, primeira meia hora é com o champion: revisão do log, alinhamento de prioridades, escolha do tema do mês.
+Em cada visita mensal do aluno, primeira meia hora é com o champion: revisêo do log, alinhamento de prioridades, escolha do tema do mês.
 
 ### Como o aluno trata o champion como parceiro
 
 Quatro práticas que diferenciam o relacionamento:
 
-1. **Reconhecimento público.** Em apresentação ao dono, o aluno credita o champion: "a Maria identificou esse padrão de erro em outubro, por isso atualizamos." Champion engajado fica mais engajado.
+1. **Reconhecimento público.** Em apresentaçêo ao dono, o aluno credita o champion: "a Maria identificou esse padrêo de erro em outubro, por isso atualizamos." Champion engajado fica mais engajado.
 
-2. **Material exclusivo.** Champion recebe acesso a documentação técnica adicional (não-confidencial), pode tirar dúvidas em canal dedicado, vê os números antes dos colegas.
+2. **Material exclusivo.** Champion recebe acesso a documentaçêo técnica adicional (nêo-confidencial), pode tirar dúvidas em canal dedicado, vê os números antes dos colegas.
 
-3. **Desenvolvimento.** O aluno oferece ao champion conteúdo gratuito do programa Profissional 2027 (módulos básicos de IA para não-técnicos), o que aumenta a competência interna e cria embaixador.
+3. **Desenvolvimento.** O aluno oferece ao champion conteúdo gratuito do programa Profissional 2027 (módulos básicos de IA para nêo-técnicos), o que aumenta a competência interna e cria embaixador.
 
 4. **Bônus simbólico quando renova o contrato.** R$ 100–300 em forma de presente do aluno para o champion no aniversário do contrato. Pequeno, mas marca diferença.
 
@@ -155,50 +155,50 @@ Quatro práticas que diferenciam o relacionamento:
 
 Pesquisa G §10.1: "champion interno parando de usar" é gatilho automático de visita extraordinária em 7 dias.
 
-Quando o champion sai da empresa, é situação ainda mais crítica:
+Quando o champion sai da empresa, é situaçêo ainda mais crítica:
 
-- **Em até 48h:** aluno comunica ao dono que precisa de ação imediata.
-- **Em até 7 dias:** identificação de novo champion candidato + plano de transição.
+- **Em até 48h:** aluno comunica ao dono que precisa de açêo imediata.
+- **Em até 7 dias:** identificaçêo de novo champion candidato + plano de transiçêo.
 - **Em até 14 dias:** train-the-trainer condensado (4–6h em 2 dias) com o novo champion.
 - **Em até 30 dias:** novo champion operando como ponto focal, log normalizado.
 
-Custo dessa transição: dentro do contrato de manutenção se for tier Intermediário ou Avançado. Para tier Básico, pode ser cobrado como visita extraordinária (cláusula 5 do contrato, escopo não-coberto).
+Custo dessa transiçêo: dentro do contrato de manutençêo se for tier Intermediário ou Avançado. Para tier Básico, pode ser cobrado como visita extraordinária (cláusula 5 do contrato, escopo nêo-coberto).
 
 ## Exemplo aplicado — Polaris Bebidas
 
-Na fase D, Cláudio nomeou a Maria como champion. Maria tinha 4 anos de casa, era a atendente sênior, demonstrou curiosidade nas entrevistas ("posso ver como esse negócio funciona?"). Disposição declarada, com tempo de 4h/semana garantido por Cláudio.
+Na fase D, Cláudio nomeou a Maria como champion. Maria tinha 4 anos de casa, era a atendente sênior, demonstrou curiosidade nas entrevistas ("posso ver como esse negócio funciona?"). Disposiçêo declarada, com tempo de 4h/semana garantido por Cláudio.
 
 Train-the-trainer na fase A:
 
 - Semana 0: 3h de walkthrough. Maria entendeu HITL nível 2 e foi a primeira a operar no go-live.
-- Semana 1: 2h de observação do job shadowing. Maria respondeu a 8 dúvidas dos colegas com aluno presente.
-- Semana 2: 2h de operação solo + gravação de 1 micro-vídeo ("como atender pedido grande que escala para humano").
+- Semana 1: 2h de observaçêo do job shadowing. Maria respondeu a 8 dúvidas dos colegas com aluno presente.
+- Semana 2: 2h de operaçêo solo + gravaçêo de 1 micro-vídeo ("como atender pedido grande que escala para humano").
 
 Ongoing: Maria manteve log mensal, treinou a Júlia (atendente júnior contratada no mês 6), atualizou 2 cheatsheets nos primeiros 6 meses.
 
-Mês 9: Maria foi promovida para gerente de atendimento (saindo da operação direta, mas continuando como champion). Sem turnover, sem crise.
+Mês 9: Maria foi promovida para gerente de atendimento (saindo da operaçêo direta, mas continuando como champion). Sem turnover, sem crise.
 
 ## Materiais prontos
 
-- Critérios de identificação do champion em formato checklist.
+- Critérios de identificaçêo do champion em formato checklist.
 - Roteiros das 3 sessões de train-the-trainer.
 - Modelo de log mensal do champion (formulário simples).
-- Protocolo de escalação (champion → aluno) em 1 página.
-- Plano de transição quando champion sai (timeline de 30 dias).
+- Protocolo de escalaçêo (champion → aluno) em 1 página.
+- Plano de transiçêo quando champion sai (timeline de 30 dias).
 
 ## Erros comuns
 
-- **Aceitar champion imposto sem disposição declarada.** *Correção:* aceitação verbal na presença do dono, na fase D. Sem isso, não tem champion real.
-- **Escolher o mais júnior achando que "é mais ensinável".** *Correção:* sênior com 2+ anos e boa relação com colegas. Júnior pode virar champion futuramente.
-- **Não dar reconhecimento público ao champion.** *Correção:* mencionar em apresentação ao dono, todo mês. Engajamento é frágil sem reconhecimento.
-- **Ignorar quando champion para de usar o sistema.** *Correção:* gatilho de visita extraordinária em 7 dias. Não esperar a reunião mensal.
-- **Treinar champion como se fosse aluno técnico.** *Correção:* champion não precisa entender LLM. Precisa entender operação, playbook e log de erros.
+- **Aceitar champion imposto sem disposiçêo declarada.** *Correçêo:* aceitaçêo verbal na presença do dono, na fase D. Sem isso, nêo tem champion real.
+- **Escolher o mais júnior achando que "é mais ensinável".** *Correçêo:* sênior com 2+ anos e boa relaçêo com colegas. Júnior pode virar champion futuramente.
+- **Nêo dar reconhecimento público ao champion.** *Correçêo:* mencionar em apresentaçêo ao dono, todo mês. Engajamento é frágil sem reconhecimento.
+- **Ignorar quando champion para de usar o sistema.** *Correçêo:* gatilho de visita extraordinária em 7 dias. Nêo esperar a reuniêo mensal.
+- **Treinar champion como se fosse aluno técnico.** *Correçêo:* champion nêo precisa entender LLM. Precisa entender operaçêo, playbook e log de erros.
 
 ## Checklist de saída
 
-- [ ] Aluno consegue listar 6 critérios de identificação e aplicá-los na fase D.
+- [ ] Aluno consegue listar 6 critérios de identificaçêo e aplicá-los na fase D.
 - [ ] Aluno tem roteiros das 3 sessões de train-the-trainer prontos.
 - [ ] Aluno tem template de log mensal do champion.
-- [ ] Aluno tem protocolo de escalação documentado.
+- [ ] Aluno tem protocolo de escalaçêo documentado.
 - [ ] Aluno entendeu que champion saindo aciona visita extraordinária em 7 dias.
 - [ ] Aluno sabe lidar com cliente onde champion = dono (micro-PME).

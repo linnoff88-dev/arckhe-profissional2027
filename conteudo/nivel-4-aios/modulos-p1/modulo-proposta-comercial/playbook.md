@@ -1,7 +1,7 @@
 # Playbook — Agente de Proposta Comercial — {{NOME_EMPRESA}}
 
-**Versão:** 1.0 — preencher
-**Próxima revisão:** {{DATA}}
+**Versêo:** 1.0 — preencher
+**Próxima revisêo:** {{DATA}}
 **Champion:** {{NOME_HEAD_COMERCIAL}} · {{WHATSAPP_CHAMPION}}
 **Vendedores ativos:** {{LISTA_VENDEDORES}}
 **Implementador:** {{NOME_IMPLEMENTADOR}} · {{WHATSAPP_IMPLEMENTADOR}}
@@ -28,7 +28,7 @@ Vendedor abre formulário n8n (ou WhatsApp do bot interno) e preenche/manda:
 
 **Campos mínimos:**
 - Nome do contato + empresa + setor + cidade.
-- Dor declarada (frase do cliente, não interpretação).
+- Dor declarada (frase do cliente, nêo interpretaçêo).
 - Contexto (o que está acontecendo hoje).
 - Objetivo (com número se mencionado).
 - Prazo desejado.
@@ -60,7 +60,7 @@ Vendedor SEMPRE revisa:
 - Exclusões fazem sentido?
 - ROI é defensável?
 
-**Tempo médio de revisão:** 3-8 minutos. Se gastar mais que 15 min editando, há problema no briefing ou no prompt — reportar.
+**Tempo médio de revisêo:** 3-8 minutos. Se gastar mais que 15 min editando, há problema no briefing ou no prompt — reportar.
 
 ### 2.4 Enviar
 
@@ -75,7 +75,7 @@ Vendedor SEMPRE revisa:
 
 Se dor, contexto ou objetivo estiverem vazios, o Elo 1 bloqueia e devolve:
 
-> "Briefing incompleto. Por favor adicione: [campos faltantes]. Sem essas informações não consigo desenhar escopo coerente."
+> "Briefing incompleto. Por favor adicione: [campos faltantes]. Sem essas informações nêo consigo desenhar escopo coerente."
 
 Vendedor completa e re-submete.
 
@@ -87,18 +87,18 @@ Se o avaliador rejeita a proposta 3 vezes seguidas, o agente entrega o rascunho 
 
 ### 3.3 Tabela de preço retornou inconsistência
 
-Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agente alerta o vendedor para esclarecer.
+Se `consultar_tabela_servicos` retorna ambiguidade ou item nêo encontrado, agente alerta o vendedor para esclarecer.
 
 ---
 
 ## 4. Procedimentos do champion (head comercial)
 
-### 4.1 Validação mensal de qualidade
+### 4.1 Validaçêo mensal de qualidade
 
 1. Amostrar 10 propostas geradas no mês.
 2. Conferir: tom, preço, escopo, ROI.
 3. Marcar problemas no painel de auditoria.
-4. Reportar ao implementador na manutenção.
+4. Reportar ao implementador na manutençêo.
 
 ### 4.2 Acompanhar taxa de fechamento
 
@@ -108,13 +108,13 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agen
 
 ### 4.3 Treinar vendedor novo
 
-1. Vendedor novo gera 5 propostas-piloto com supervisão.
+1. Vendedor novo gera 5 propostas-piloto com supervisêo.
 2. Champion revisa cada uma antes de enviar.
 3. Após 5 propostas aprovadas, vendedor opera autônomo no nível HITL definido.
 
 ---
 
-## 5. Correção do agente
+## 5. Correçêo do agente
 
 ### 5.1 Tom inadequado (linguagem genérica de marketing)
 
@@ -127,7 +127,7 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agen
 - Verificar tool consultar_tabela_servicos retornando valor certo.
 - Reportar ao implementador.
 
-### 5.3 Escopo fora de padrão (entregável vago, falta exclusão)
+### 5.3 Escopo fora de padrêo (entregável vago, falta exclusêo)
 
 - Implementador adiciona few-shot real do que é entregável bom.
 - Reforça regra no Elo 2.
@@ -162,7 +162,7 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agen
 |---|---|---|---|---|
 | Tempo médio briefing→PDF (min) | | | | ≤ 25 |
 | Propostas/semana enviadas | | | | |
-| Taxa de edição pré-envio | | | — | ≤ 30% |
+| Taxa de ediçêo pré-envio | | | — | ≤ 30% |
 | Taxa de fechamento | | | | |
 | Erros de preço/escopo reportados | | | | < 2% |
 | Tempo briefing→envio ao prospect | | | | |
@@ -173,7 +173,7 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agen
 
 # Exemplo preenchido — Time comercial INEMA.CLUB (uso próprio)
 
-**Versão:** 1.0 — uso interno do programa Profissional 2027.
+**Versêo:** 1.0 — uso interno do programa Profissional 2027.
 **Champion:** Nei Maldaner (curador).
 **Vendedores:** alunos certificados do Profissional 2027 usando para suas próprias consultorias.
 
@@ -190,10 +190,10 @@ Se `consultar_tabela_servicos` retorna ambiguidade ou item não encontrado, agen
 ## Dicas
 
 - **Briefing curto e específico vence briefing longo e vago.** Treinar vendedor a capturar a dor real.
-- **Revisão de 5 minutos é o sweet spot.** Mais que isso, briefing foi pobre.
-- **Nunca envie sem ler — não importa o quanto o agente está bom.**
-- **Atualizar tabela de preços mensalmente é não-negociável.**
-- **Time comercial precisa ver o agente como ferramenta, não substituto.** Reposicionamento na fase D: "o agente escreve o rascunho, você revisa, edita e fecha a venda."
+- **Revisêo de 5 minutos é o sweet spot.** Mais que isso, briefing foi pobre.
+- **Nunca envie sem ler — nêo importa o quanto o agente está bom.**
+- **Atualizar tabela de preços mensalmente é nêo-negociável.**
+- **Time comercial precisa ver o agente como ferramenta, nêo substituto.** Reposicionamento na fase D: "o agente escreve o rascunho, você revisa, edita e fecha a venda."
 
 ---
 

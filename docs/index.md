@@ -5,7 +5,7 @@ hide:
 
 # Profissional 2027
 
-**Programa gratuito de formação de Implementadores de Soluções de IA para pequenas e médias empresas brasileiras.**
+**Programa gratuito de formaçêo de Implementadores de Soluções de IA para pequenas e médias empresas brasileiras.**
 
 Construído pela comunidade [inema.vip](https://inema.vip) e publicado em texto direto e prático em [inema.club](https://inema.club).
 
@@ -15,7 +15,7 @@ Construído pela comunidade [inema.vip](https://inema.vip) e publicado em texto 
 
 > **Ferramenta é commodity. Processo é o ativo.**
 
-Hoje, 100% das PMEs brasileiras já testaram alguma forma de IA. Apenas 9% têm ROI mensurado. O Brasil não precisa de mais ferramentas. Precisa de profissionais com método.
+Hoje, 100% das PMEs brasileiras já testaram alguma forma de IA. Apenas 9% têm ROI mensurado. O Brasil nêo precisa de mais ferramentas. Precisa de profissionais com método.
 
 ---
 
@@ -27,7 +27,7 @@ Um **Implementador de Soluções de IA** capaz de:
 - **Processar** o conhecimento tácito do negócio em playbooks operacionais.
 - **Instruir** agentes de IA com regras, exemplos e critérios objetivos.
 - **Automatizar** o fluxo no ambiente do cliente (WhatsApp, ERP brasileiro, PIX, NF-e).
-- **Acompanhar** a operação, treinar o cliente e sustentar a adoção.
+- **Acompanhar** a operaçêo, treinar o cliente e sustentar a adoçêo.
 
 Esse é o método **DPIA + Acompanhamento**.
 
@@ -37,12 +37,12 @@ Esse é o método **DPIA + Acompanhamento**.
 
 | Item | Detalhe |
 |---|---|
-| **Duração** | 10 a 12 semanas, ~100 horas |
+| **Duraçêo** | 10 a 12 semanas, ~100 horas |
 | **Modelo** | 100% gratuito, open source, em português brasileiro |
 | **Estrutura** | Núcleo generalista + módulos verticais opcionais (distribuidoras, clínicas, contábeis) |
-| **Certificação** | Após entregar 1 diagnóstico pago real + 1 piloto em PME real |
-| **Distribuição** | inema.club + comunidade inema.vip |
-| **Relação com formados** | Mercado aberto. Sem franquia, sem selo restritivo |
+| **Certificaçêo** | Após entregar 1 diagnóstico pago real + 1 piloto em PME real |
+| **Distribuiçêo** | inema.club + comunidade inema.vip |
+| **Relaçêo com formados** | Mercado aberto. Sem franquia, sem selo restritivo |
 
 ---
 
@@ -54,21 +54,21 @@ A tese, o perfil profissional, o tamanho da oportunidade, o porquê do modelo gr
 [**Método DPIA**](metodo/dpia-canonico.md)
 Manual canônico do método + quatro trilhas pedagógicas (Diagnosticar, Processar, Instruir, Automatizar).
 
-[**Aplicação**](conteudo/nivel-3-aplicacao/bloco-a-venda/00-visao-geral.md)
-Venda consultiva, contratos, LGPD, treinamento do cliente, sustentação no campo.
+[**Aplicaçêo**](conteudo/nivel-3-aplicacao/bloco-a-venda/00-visao-geral.md)
+Venda consultiva, contratos, LGPD, treinamento do cliente, sustentaçêo no campo.
 
 [**Biblioteca AIOS**](conteudo/nivel-4-aios/00-introducao.md)
 Doze módulos prontos para uso — atendimento, pedidos, agendamento, cobrança, propostas, e mais.
 
-[**Fundamentação**](pesquisa/00-sintese-transversal.md)
-Sete pesquisas de mercado + síntese transversal. A base de evidência por trás de cada decisão.
+[**Fundamentaçêo**](pesquisa/00-sintese-transversal.md)
+Sete pesquisas de mercado + síntese transversal. A base de evidência por trás de cada decisêo.
 
 ---
 
 ## Stack canônica do programa
 
 - **LLM:** Claude Sonnet 4.6 + Claude Haiku 4.5 (com prompt caching)
-- **Orquestração:** n8n self-hosted em Hetzner
+- **Orquestraçêo:** n8n self-hosted em Hetzner
 - **Memória:** Supabase com pgvector quando necessário
 - **Mensageria:** WhatsApp Cloud API oficial (Meta)
 - **ERPs locais:** Bling, Omie, Conta Azul via REST
@@ -87,7 +87,7 @@ Sete pesquisas de mercado + síntese transversal. A base de evidência por trás
 
 ## Licença
 
-Conteúdo livre para uso, adaptação e redistribuição por qualquer pessoa ou comunidade.
+Conteúdo livre para uso, adaptaçêo e redistribuiçêo por qualquer pessoa ou comunidade.
 
 [Ver no GitHub :material-github:](https://github.com/inematds/profissional2027){ .md-button .md-button--primary }
 [Começar pelo Manifesto :material-book-open-page-variant:](conteudo/nivel-1-manifesto/01-manifesto.md){ .md-button }
